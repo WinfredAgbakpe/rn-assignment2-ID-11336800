@@ -5,10 +5,11 @@ This project is a simple React Native application created as part of an assignme
 
 ## Task
 - Change the background color of the View component.
-- Edit the Text component to display "My name is YourName".
+- Edit the Text component to display "My name is Agbakpe Winfred".
 - Increase the font size of the text to 24.
-- Make the name "YourName" bold.
+- Make the name "Agbakpe Winfred" bold.
 
-##**Screenshot**
+## Screenshot
+![Screenshot](screenshot.png)
 
 ## Student ID 11336800
