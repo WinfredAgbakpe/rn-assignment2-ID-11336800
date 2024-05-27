@@ -9,7 +9,6 @@ This project is a simple React Native application created as part of an assignme
 - Increase the font size of the text to 24.
 - Make the name "YourName" bold.
 
-## Screenshot
-![Screenshot](screenshot.png)
+##**Screenshot**
 
 ## Student ID 11336800
