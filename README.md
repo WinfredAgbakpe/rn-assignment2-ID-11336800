@@ -10,6 +10,6 @@ This project is a simple React Native application created as part of an assignme
 - Make the name "Agbakpe Winfred" bold.
 
 ## Screenshot
-![Screenshot](screenshot.png)
+
 
 ## Student ID 11336800
